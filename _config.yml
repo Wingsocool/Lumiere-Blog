@@ -154,3 +154,19 @@ abbrlink:
 #   type: git
 #   repository:
 #   branch:
+
+#Marked
+markdown:
+  preset: default
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: false
+    linkify: true
+    typographer: false
+  anchors:
+    level: 1
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
