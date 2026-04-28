@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/about/index.html</loc>
-    
-    <lastmod>2026-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lumiere.press/archive/index.html</loc>
     
     <lastmod>2026-04-28</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://lumiere.press/guestbook/index.html</loc>
+    
+    <lastmod>2026-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/about/index.html</loc>
     
     <lastmod>2026-04-28</lastmod>
     
