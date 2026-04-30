@@ -8,5 +8,5 @@ Hexo + NexT blog source for https://lumiere.press
 
 ```bash
 git add .
-git commit -m "post: update blog"
+git commit -m "update the saving style"
 git push

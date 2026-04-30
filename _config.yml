@@ -31,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :year-:month-:title.md
+new_post_name: :year-:month/:title.md
 default_layout: post
 auto_spacing: true
 titlecase: false
