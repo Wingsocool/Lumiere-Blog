@@ -20,51 +20,6 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/posts/ffeced83/</loc>
-    
-    <lastmod>2026-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/about/index.html</loc>
-    
-    <lastmod>2026-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/categories/index.html</loc>
-    
-    <lastmod>2026-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/archive/index.html</loc>
-    
-    <lastmod>2026-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/guestbook/index.html</loc>
-    
-    <lastmod>2026-05-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lumiere.press/posts/dcb0dc1a/</loc>
     
     <lastmod>2026-05-02</lastmod>
@@ -83,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/posts/d3b4846b/</loc>
+    <loc>https://lumiere.press/posts/ea8e8cea/</loc>
     
     <lastmod>2026-05-02</lastmod>
     
@@ -92,7 +47,52 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/posts/ea8e8cea/</loc>
+    <loc>https://lumiere.press/posts/ffeced83/</loc>
+    
+    <lastmod>2026-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/about/index.html</loc>
+    
+    <lastmod>2026-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/archive/index.html</loc>
+    
+    <lastmod>2026-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/categories/index.html</loc>
+    
+    <lastmod>2026-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/guestbook/index.html</loc>
+    
+    <lastmod>2026-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/posts/d3b4846b/</loc>
     
     <lastmod>2026-05-02</lastmod>
     
@@ -218,6 +218,20 @@
 
   
   <url>
+    <loc>https://lumiere.press/tags/Works/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/tags/SciFi/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lumiere.press/tags/Ravings/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,20 +254,6 @@
   
   <url>
     <loc>https://lumiere.press/tags/Meaningless/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/tags/Works/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/tags/SciFi/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +304,13 @@
   </url>
   
   <url>
+    <loc>https://lumiere.press/categories/Something-Interesting/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lumiere.press/categories/Help-Docs/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,13 +319,6 @@
   
   <url>
     <loc>https://lumiere.press/categories/Daily-Life/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/categories/Something-Interesting/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
