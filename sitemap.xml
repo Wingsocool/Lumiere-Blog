@@ -287,13 +287,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://lumiere.press/tags/Reading-Notes/</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -339,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/categories/Fragments-of-Thoughts/Tools/</loc>
+    <loc>https://lumiere.press/categories/Fragments-of-Thoughts/Reading-Notes/</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
