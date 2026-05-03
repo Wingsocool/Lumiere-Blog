@@ -79,7 +79,7 @@ meta_generator: false
 # Date / Time format
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
-updated_option: mtime
+updated_option: date
 
 # Pagination
 per_page: 5
