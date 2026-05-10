@@ -227,13 +227,6 @@
 
   
   <url>
-    <loc>https://lumiere.press/tags/Ravings/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lumiere.press/tags/Works/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +235,13 @@
   
   <url>
     <loc>https://lumiere.press/tags/SciFi/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/tags/Ravings/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -269,6 +269,13 @@
   </url>
   
   <url>
+    <loc>https://lumiere.press/tags/Academic-Skills/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lumiere.press/tags/Habits/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,13 +284,6 @@
   
   <url>
     <loc>https://lumiere.press/tags/Life/</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/tags/Academic-Skills/</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
