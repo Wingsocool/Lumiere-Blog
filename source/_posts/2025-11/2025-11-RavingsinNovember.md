@@ -1,5 +1,5 @@
 ---
-title: 十一月总结
+title: 十一月闲语
 categories:
   - Daily Life
   - Summary
