@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/tags/Political-Economy/</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lumiere.press/tags/AI/</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,6 +332,13 @@
   
   <url>
     <loc>https://lumiere.press/tags/Technology/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/tags/Political-Economy/</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
