@@ -305,14 +305,14 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/tags/Life/</loc>
+    <loc>https://lumiere.press/tags/Habits/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lumiere.press/tags/Habits/</loc>
+    <loc>https://lumiere.press/tags/Life/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/tags/Political-Economy/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lumiere.press/tags/AI/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -354,14 +347,7 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/tags/Consumerism/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lumiere.press/tags/Sociology/</loc>
+    <loc>https://lumiere.press/tags/Political-Economy/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -376,6 +362,20 @@
   
   <url>
     <loc>https://lumiere.press/tags/Capitalism/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/tags/Consumerism/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/tags/Sociology/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -433,14 +433,14 @@
   </url>
   
   <url>
-    <loc>https://lumiere.press/categories/Reading-Notes/</loc>
+    <loc>https://lumiere.press/categories/Daily-Life/Summary/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lumiere.press/categories/Daily-Life/Summary/</loc>
+    <loc>https://lumiere.press/categories/Reading-Notes/</loc>
     <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
