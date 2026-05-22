@@ -91,8 +91,6 @@
     
     <category term="Fragments of Thoughts" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/"/>
     
-    <category term="Summary" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/Summary/"/>
-    
     
     <category term="Ravings" scheme="https://lumiere.press/tags/Ravings/"/>
     
@@ -243,8 +241,6 @@
     
     <category term="Daily Life" scheme="https://lumiere.press/categories/Daily-Life/"/>
     
-    <category term="Summary" scheme="https://lumiere.press/categories/Daily-Life/Summary/"/>
-    
     
     <category term="Ravings" scheme="https://lumiere.press/tags/Ravings/"/>
     
@@ -392,9 +388,9 @@
     <category term="Fragments of Thoughts" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/"/>
     
     
-    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
-    
     <category term="Academic Skills" scheme="https://lumiere.press/tags/Academic-Skills/"/>
+    
+    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
     
     <category term="Study Notes" scheme="https://lumiere.press/tags/Study-Notes/"/>
     

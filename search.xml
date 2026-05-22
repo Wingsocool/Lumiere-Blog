@@ -67,8 +67,6 @@
           
           <category> Fragments of Thoughts </category>
           
-          <category> Summary </category>
-          
       </categories>
       
       
@@ -226,8 +224,6 @@
       <categories>
           
           <category> Daily Life </category>
-          
-          <category> Summary </category>
           
       </categories>
       
@@ -394,9 +390,9 @@
       
         <tags>
             
-            <tag> Habits </tag>
-            
             <tag> Academic Skills </tag>
+            
+            <tag> Habits </tag>
             
             <tag> Study Notes </tag>
             
