@@ -8,5 +8,5 @@ Hexo + NexT blog source for https://lumiere.press
 
 ```bash
 git add .
-git commit -m "create new post"
+git commit -m "update old post"
 git push

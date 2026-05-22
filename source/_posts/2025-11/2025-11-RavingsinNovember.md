@@ -2,7 +2,6 @@
 title: 十一月闲语
 categories:
   - Daily Life
-  - Summary
 tags:
   - Ravings
   - Life
