@@ -5,6 +5,7 @@ categories:
 tags:
   - Ravings
   - Life
+  - Summary
 comments: true
 top: false
 hidden: false
