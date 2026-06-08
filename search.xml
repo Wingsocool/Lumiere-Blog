@@ -76,6 +76,8 @@
             
             <tag> Life </tag>
             
+            <tag> Summary </tag>
+            
         </tags>
       
     </entry>
@@ -234,6 +236,8 @@
             
             <tag> Life </tag>
             
+            <tag> Summary </tag>
+            
         </tags>
       
     </entry>
@@ -245,7 +249,7 @@
       <link href="/posts/d3b4846b/"/>
       <url>/posts/d3b4846b/</url>
       
-        <content type="html"><![CDATA[<p>整理一些在用的奇怪（有趣？）的网站</p><span id="more"></span><ol><li><a href="https://128116.xyz/">我自己写的小工具合集</a></li><li><a href="https://radio.garden/">Radio Garden – Explore live radio by rotating the globe</a></li><li><a href="https://zh.ifixit.com/">iFixit：免费修理手册</a></li><li><a href="https://cook.yunyoujun.cn/">食用手册</a></li><li><a href="https://keeptrack.space/">KeepTrack - 首页</a></li><li><a href="https://xgzb.top/han">汉字字帖生成器 - 写个字吧</a></li><li><a href="https://zmt.agilestudio.cn/">33字幕图-免费在线制作台词字幕拼图</a></li><li><a href="https://www.xuezhongcai.com/">学种菜网-蔬菜种植_水果、粮食、中药材种植技术方法及花卉养殖技巧知识大全</a></li></ol>]]></content>
+        <content type="html"><![CDATA[<p>整理一些在用的奇怪（有趣？）的网站</p><span id="more"></span><ol><li><a href="https://128116.xyz/">我自己写的小工具合集</a></li><li><a href="https://radio.garden/">Radio Garden – Explore live radio by rotating the globe</a></li><li><a href="https://zh.ifixit.com/">iFixit：免费修理手册</a></li><li><a href="https://cook.yunyoujun.cn/">食用手册</a></li><li><a href="https://keeptrack.space/">KeepTrack - 首页</a></li><li><a href="https://xgzb.top/han">汉字字帖生成器 - 写个字吧</a></li><li><a href="https://zmt.agilestudio.cn/">33字幕图-免费在线制作台词字幕拼图</a></li><li><a href="https://www.xuezhongcai.com/">学种菜网-蔬菜种植_水果、粮食、中药材种植技术方法及花卉养殖技巧知识大全</a></li><li><a href="https://phet.colorado.edu/">STEM仿真模拟教育</a></li><li>[史记知识库（方法论可复用，见readme）] (<a href="https://baojie.github.io/shiji-kb/">https://baojie.github.io/shiji-kb/</a>)</li></ol>]]></content>
       
       
       <categories>
@@ -390,9 +394,9 @@
       
         <tags>
             
-            <tag> Academic Skills </tag>
-            
             <tag> Habits </tag>
+            
+            <tag> Academic Skills </tag>
             
             <tag> Study Notes </tag>
             

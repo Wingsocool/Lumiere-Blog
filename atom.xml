@@ -96,6 +96,8 @@
     
     <category term="Life" scheme="https://lumiere.press/tags/Life/"/>
     
+    <category term="Summary" scheme="https://lumiere.press/tags/Summary/"/>
+    
   </entry>
   
   <entry>
@@ -246,6 +248,8 @@
     
     <category term="Life" scheme="https://lumiere.press/tags/Life/"/>
     
+    <category term="Summary" scheme="https://lumiere.press/tags/Summary/"/>
+    
   </entry>
   
   <entry>
@@ -253,9 +257,9 @@
     <link href="https://lumiere.press/posts/d3b4846b/"/>
     <id>https://lumiere.press/posts/d3b4846b/</id>
     <published>2025-10-28T01:05:17.000Z</published>
-    <updated>2026-05-10T20:49:23.000Z</updated>
+    <updated>2026-06-07T20:49:23.000Z</updated>
     
-    <content type="html"><![CDATA[<p>整理一些在用的奇怪（有趣？）的网站</p><span id="more"></span><ol><li><a href="https://128116.xyz/">我自己写的小工具合集</a></li><li><a href="https://radio.garden/">Radio Garden – Explore live radio by rotating the globe</a></li><li><a href="https://zh.ifixit.com/">iFixit：免费修理手册</a></li><li><a href="https://cook.yunyoujun.cn/">食用手册</a></li><li><a href="https://keeptrack.space/">KeepTrack - 首页</a></li><li><a href="https://xgzb.top/han">汉字字帖生成器 - 写个字吧</a></li><li><a href="https://zmt.agilestudio.cn/">33字幕图-免费在线制作台词字幕拼图</a></li><li><a href="https://www.xuezhongcai.com/">学种菜网-蔬菜种植_水果、粮食、中药材种植技术方法及花卉养殖技巧知识大全</a></li></ol>]]></content>
+    <content type="html"><![CDATA[<p>整理一些在用的奇怪（有趣？）的网站</p><span id="more"></span><ol><li><a href="https://128116.xyz/">我自己写的小工具合集</a></li><li><a href="https://radio.garden/">Radio Garden – Explore live radio by rotating the globe</a></li><li><a href="https://zh.ifixit.com/">iFixit：免费修理手册</a></li><li><a href="https://cook.yunyoujun.cn/">食用手册</a></li><li><a href="https://keeptrack.space/">KeepTrack - 首页</a></li><li><a href="https://xgzb.top/han">汉字字帖生成器 - 写个字吧</a></li><li><a href="https://zmt.agilestudio.cn/">33字幕图-免费在线制作台词字幕拼图</a></li><li><a href="https://www.xuezhongcai.com/">学种菜网-蔬菜种植_水果、粮食、中药材种植技术方法及花卉养殖技巧知识大全</a></li><li><a href="https://phet.colorado.edu/">STEM仿真模拟教育</a></li><li>[史记知识库（方法论可复用，见readme）] (<a href="https://baojie.github.io/shiji-kb/">https://baojie.github.io/shiji-kb/</a>)</li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;整理一些在用的奇怪（有趣？）的网站&lt;/p&gt;</summary>
@@ -388,9 +392,9 @@
     <category term="Fragments of Thoughts" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/"/>
     
     
-    <category term="Academic Skills" scheme="https://lumiere.press/tags/Academic-Skills/"/>
-    
     <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
+    
+    <category term="Academic Skills" scheme="https://lumiere.press/tags/Academic-Skills/"/>
     
     <category term="Study Notes" scheme="https://lumiere.press/tags/Study-Notes/"/>
     
