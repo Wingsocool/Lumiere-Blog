@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://lumiere.press/posts/4b8f54fc/</loc>
+    
+    <lastmod>2026-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lumiere.press/posts/5c1801fb/</loc>
     
     <lastmod>2026-08-23</lastmod>
@@ -468,6 +477,13 @@
   
   <url>
     <loc>https://lumiere.press/categories/Reading-Notes/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lumiere.press/categories/Reading-Notes/Fragments-of-Thoughts/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
