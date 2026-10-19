@@ -6,7 +6,7 @@
   <link href="https://lumiere.press/atom.xml" rel="self"/>
   
   <link href="https://lumiere.press/"/>
-  <updated>2026-08-23T01:01:04.000Z</updated>
+  <updated>2026-10-19T19:21:28.000Z</updated>
   <id>https://lumiere.press/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>十月杂记</title>
+    <link href="https://lumiere.press/posts/66649307/"/>
+    <id>https://lumiere.press/posts/66649307/</id>
+    <published>2026-10-19T19:21:28.000Z</published>
+    <updated>2026-10-19T19:21:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近给Z-Lib大善人捐了点款，得了不少下载额度，于是每天都在苦思冥想，还有哪些值得先囤下来、以后慢慢看的书。</p><p>今天忽然盘点了一下自己的电子书库，发现按照目前的阅读速度，下载的书已经足够我读上三五年了，遂又开始惆怅下书如山倒，看书如抽丝。</p><p>其实，自从有了大模型，获取信息已经变得前所未有地便捷。想了解一本书，交给AI总结一下，几分钟就能掌握主要内容。但我还是习惯自己读书，自己琢磨，尽可能形成一手理解。有时候又觉得这种坚持颇为矛盾。我读的书，只要不是原文，哪怕是译本，也已经经过了译者的理解和加工，某种意义上同样是二手材料。既然如此，我又何必介意AI提供的二手总结呢？</p><p>后来隐约觉得，问题可能出在信息的压缩上。</p><p>翻译虽然也经过了他人的理解和筛选，但至少在原则上，译者仍然试图保留原作的信息和细节。而AI总结则不同，它的任务恰恰是提炼重点、压缩内容，替我决定哪些东西值得保留，哪些可以省略。这固然高效，却也让我失去了一些意外收获的机会。</p><p>我自己读书的时候，常常会被某个不起眼的句子、一个古怪的例子，甚至一段近乎边角料的叙述触发思考。有些联想可能与作者原本想表达的意思毫无关系，却恰好成为了我自己的思考起点。而这些内容在一份AI总结里，基本被当作无关紧要的信息过滤掉。</p><p>这样想来，亲自阅读长篇文本的价值，或许就在于接触更多未经压缩的材料，并在阅读的过程中不断训练自己的理解、联想和判断能力。获取一本书的结论是一回事，亲自经历从材料到结论的思考过程，又是另一回事。</p><p>有时候实在觉得烦躁于信息获得之慢的时候，我会把自己想象成一个等待训练的大模型：既然模型需要海量语料才能形成复杂的理解能力，那我也应该多给自己喂些训练数据。虽然我的训练速度比GPT慢多了，不过好在我自己思考省电又不耗Token，无非消耗点Banana。笑。</p><p>说起来，我本来就是个连看视频都不喜欢开倍速的人。对我而言，阅读AI总结的体验多少有点像刷短视频：用最短的时间获取最多的信息，看似效率很高，却总觉得少了些什么。</p><p>可问题是，我自己读书又实在太慢了。</p><p>尤其令人恼火的是，有时候认真读了许久，才发现一本书根本不值得花那么多时间。想到那些已经投入的时间和精力，又不免觉得，如果当初直接看看AI总结，岂不是省事得多？</p><p>于是就陷入了这样的矛盾：既想尽可能多地读书，又不愿为了效率牺牲阅读本身；既珍惜那些不期而遇的思考，又害怕把有限的时间浪费在不值得读的书上。</p><p>偏偏世界上的好书又那么多。</p><p>于是书越囤越多，阅读计划越排越长，惆怅也越来越深。</p><p>长太息以掩涕兮，至此。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近给Z-Lib大善人捐了点款，得了不少下载额度，于是每天都在苦思冥想，还有哪些值得先囤下来、以后慢慢看的书。&lt;/p&gt;
+&lt;p&gt;今天忽然盘点了一下自己的电子书库，发现按照目前的阅读速度，下载的书已经足够我读上三五年了，遂又开始惆怅下书如山倒，看书如抽丝。&lt;/p&gt;
+&lt;p&gt;其实，</summary>
+      
+    
+    
+    
+    <category term="Daily Life" scheme="https://lumiere.press/categories/Daily-Life/"/>
+    
+    
+    <category term="Ravings" scheme="https://lumiere.press/tags/Ravings/"/>
+    
+    <category term="Life" scheme="https://lumiere.press/tags/Life/"/>
+    
+    <category term="Summary" scheme="https://lumiere.press/tags/Summary/"/>
+    
+  </entry>
   
   <entry>
     <title>2026下半年阅读清单</title>
@@ -423,9 +453,9 @@
     <category term="Fragments of Thoughts" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/"/>
     
     
-    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
-    
     <category term="Academic Skills" scheme="https://lumiere.press/tags/Academic-Skills/"/>
+    
+    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
     
     <category term="Study Notes" scheme="https://lumiere.press/tags/Study-Notes/"/>
     
@@ -471,9 +501,9 @@
     <category term="Fragments of Thoughts" scheme="https://lumiere.press/categories/Fragments-of-Thoughts/"/>
     
     
-    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
-    
     <category term="Life" scheme="https://lumiere.press/tags/Life/"/>
+    
+    <category term="Habits" scheme="https://lumiere.press/tags/Habits/"/>
     
   </entry>
   
@@ -495,29 +525,6 @@
     
     
     <category term="Tools" scheme="https://lumiere.press/tags/Tools/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>能用的数据库资源</title>
-    <link href="https://lumiere.press/posts/5ce958c8/"/>
-    <id>https://lumiere.press/posts/5ce958c8/</id>
-    <published>2022-10-27T16:12:15.000Z</published>
-    <updated>2022-10-27T16:12:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&emsp;&emsp;最近使用中发现好些数据库资源虽然还挂在存续名单上但是授权到期或者域名已经挂掉了。在这里整理一下还能访问的名单。万一用得上呢。完全用不上的我都不测评了就。</p><span id="more"></span><p>&emsp;&emsp;访问前提都得挂校内VPN啊。</p><!-- toc --><ul><li><a href="#1-%E6%9C%89%E7%94%A8">1. 有用</a></li><li><a href="#2-%E5%8F%AF%E8%83%BD%E6%9C%89%E7%94%A8">2. 可能有用</a></li></ul><!-- tocstop --><h1><span id="1-有用">1. 有用</span></h1><ul><li>超星电子图书  <a href="www.sslibrary.com" title="超星电子图书">www.sslibrary.com</a></li></ul><p>能正常在线及下载阅读</p><ul><li>国家科技图书文献中心中文学位论文  <a href="https://www.nstl.gov.cn/">https://www.nstl.gov.cn/</a></li></ul><p>能付费下载（没理解到这个数据库的优越性……）</p><ul><li>人民数据网络版分库（除舆情信息库外）  <a href="http://data.people.com.cn/publish/_s1/0819.html" title="人民数据网络版分库（除舆情信息库外）">http://data.people.com.cn/publish/_s1&#x2F;0819.html</a></li></ul><p>能访问公开文件党政时政数据库和官媒报纸</p><ul><li>北大法意在线法律数据库（教育频道）  <a href="http://www.lawyee.org/default.html" title="北大法意在线法律数据库（教育频道）">http://www.lawyee.org/default.html</a></li></ul><p>法规案例，文书范本，专业书，能阅读能下载</p><ul><li>爱墨瑞德管理库  <a href="https://www.emerald.com/insight/" title="爱墨瑞德管理库">https://www.emerald.com/insight/</a></li></ul><p>Journals, Books &amp; Case Studies. 可看可下载</p><ul><li>Wiley在线期刊合集  <a href="https://olabout.wiley.com/WileyCDA/Section/id-829949.html" title="Wiley在线期刊合集">https://olabout.wiley.com/WileyCDA/Section/id-829949.html</a></li></ul><p>可看可下载</p><ul><li>SpecialSciDBS(国道特色专题数据库)  <a href="https://www.specialsci.cn/" title="SpecialSciDBS(国道特色专题数据库)">https://www.specialsci.cn/</a></li></ul><p>可看可下载</p><ul><li>知网硕博学位论文  <a href="https://epub.cnki.net/KNS/brief/result.aspx?dbprefix=CDFD" title="知网硕博学位论文">https://epub.cnki.net/KNS/brief/result.aspx?dbprefix=CDFD</a></li></ul><p>可看可下载</p><ul><li>万方学位论文  <a href="https://www.wanfangdata.com.cn/degree/toIndex.do" title="万方学位论文">https://www.wanfangdata.com.cn/degree/toIndex.do</a></li></ul><p>可看可下载</p><ul><li>万方库  <a href="https://www.wanfangdata.com.cn/" title="万方库">https://www.wanfangdata.com.cn/</a></li></ul><p>可看可下载</p><ul><li>知网  <a href="www.cnki.net:" title="知网">www.cnki.net:</a></li></ul><p>可看可下载</p><ul><li>Web of Science  <a href="https://www.webofscience.com/wos/alldb/basic-search" title="WofS">https://www.webofscience.com/wos/alldb/basic-search</a></li></ul><p>累了没测，反正能访问</p><ul><li>CSSCI  <a href="http://cssci.nju.edu.cn/" title="CSSCI">http://cssci.nju.edu.cn/</a></li></ul><p>登陆没问题，好多都看不到，反正目前我戳进去的文章百分百没原文，有个有摘要的还是在百度文库链接出来的。啥玩意儿。</p><ul><li>维普  <a href="http://csi.cqvip.com/" title="维普">http://csi.cqvip.com/</a></li></ul><p>诶，考试资源系统也是可以用的,做小题用的</p><ul><li>中科UMajor大学专业课学习资源 <a href="http://www.umajor.org/" title="中科UMajor大学专业课学习资源">http://www.umajor.org/</a></li></ul><p>这个更像个自学中心，有视频有套题，讲得怎么样就不知道了。</p><ul><li>MeTel  <a href="http://www.metel.cn/" title="MeTel">http://www.metel.cn/</a></li></ul><p>视频网课平台，补充学校教学内容的，感觉都是外文课程。</p><ul><li>随书光盘数据库  <a href="http://www.bj.cxstar.cn/bookx/bookx/index1/index.do" title="随书光盘">http://www.bj.cxstar.cn/bookx/bookx/index1/index.do</a></li></ul><p>能下能用</p><ul><li>尚唯产品样本数据库  <a href="http://gpd.sunwayinfo.com.cn/" title="尚唯产品样本数据库">http://gpd.sunwayinfo.com.cn/</a></li></ul><p>查点工业上的专利标准图纸模型啥的能用</p><ul><li>超星云舟  <a href="yz.chaoxing.com" title="超星云舟">yz.chaoxing.com</a></li></ul><p>用机构账号登陆，有云盘有查重渠道</p><ul><li>NoteExpress 下载链接<br> <a href="https://nedownload.inoteexpress.com/support/noncgi/downloads/NoteExpress_Vol_SXXBNLKJDX_3.7.0.9258_zh.exe">https://nedownload.inoteexpress.com/support/noncgi/downloads/NoteExpress_Vol_SXXBNLKJDX_3.7.0.9258_zh.exe</a></li></ul><p>v3.7.0.9258汉化版</p><ul><li>可知专业正版书平台  <a href="https://www.keledge.com/wrap/index" title="可知平台">https://www.keledge.com/wrap/index</a></li></ul><p>可以扫到手机上看，资源不多但是。</p><ul><li>编程学习平台  <a href="http://xgk.gxsentu.net/" title="编程学习平台">http://xgk.gxsentu.net/</a></li></ul><p>Java, Linux, MySQL, Python, 流程控制与运算符，数据表，PHP, iOS, ASP.NET, C&#x2F;C#, HTMLS等学习课程及题库</p><hr><h1><span id="2-可能有用">2. 可能有用</span></h1><ul><li>Springer  <a href="https://link.springer.com/" title="Springer">https://link.springer.com/</a></li></ul><p>能在线阅读</p><ul><li>Nature  <a href="https://www.nature.com/" title="Nature">https://www.nature.com/</a></li></ul><p>可看可下载</p><ul><li>Elsevier Science  <a href="https://www.sciencedirect.com/" title="Elsevier Science">https://www.sciencedirect.com/</a></li></ul><p>可看可下载</p><ul><li>Cell  <a href="https://www.cell.com/" title="Cell Press">https://www.cell.com/</a></li></ul><p>可看可下载</p><ul><li>Science  <a href="https://www.science.org/" title="Science">https://www.science.org/</a></li></ul><p>可看可下载</p><ul><li>ACS  <a href="https://pubs.acs.org/" title="ACS">https://pubs.acs.org/</a></li></ul><p>可看可下载</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;最近使用中发现好些数据库资源虽然还挂在存续名单上但是授权到期或者域名已经挂掉了。在这里整理一下还能访问的名单。万一用得上呢。完全用不上的我都不测评了就。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Help Docs" scheme="https://lumiere.press/categories/Help-Docs/"/>
-    
-    
-    <category term="Tools" scheme="https://lumiere.press/tags/Tools/"/>
-    
-    <category term="Academic Skills" scheme="https://lumiere.press/tags/Academic-Skills/"/>
     
   </entry>
   
